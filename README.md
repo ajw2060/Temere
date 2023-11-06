@@ -5,7 +5,8 @@ Temere allows a schedule to be built to switch on and switch off smart devices s
 
 The following files are included here.
 - backup of the MySQL table structure
-- PHP files for the ewb interface
+- PHP files for the web interface
 - The python scripts used for data management
 - Sample python scripts for device control
-  
+
+The credentials in the YAML files need to be updated to suit your environment.  
